@@ -18,6 +18,7 @@ languages: [English]
 layerCount: 5
 OS: [Linux, Windows]
 stagger: columnar
-summary: A simple, intuitive, general-purpose layout that maximizes ping-ponging, minimizes travel, and minimizes holds. It's designed to be useful in Xmonad, tmux, vim, and Windows. It was designed with a Corne in mind but is adaptable to any 3x10 & thumb layout. title: elpfen's 30 & thumb layout
+summary: A simple, intuitive, general-purpose layout that maximizes ping-ponging, minimizes travel, and minimizes holds. It's designed to be useful in Xmonad, tmux, vim, and Windows. It was designed with a Corne in mind but is adaptable to any 3x10 & thumbs layout.
+title: elpfen's thirty & thumbs
 writeup: https://github.com/CharlesSchimmel/qmk_firmware/tree/elpfen/users/elpfen
 ---
